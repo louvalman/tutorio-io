@@ -1,0 +1,32 @@
+/*Google Font*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,100&family=Roboto:wght@100;400&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+header,
+section {
+    overflow-x: hidden;
+}
+
+:root {
+    --Robotto-font: "Robotto", light;
+    --SourceSansPro: "Source Sans Pro", regular;
+    --Poppins: "Poppins", cursive;
+    --light-black: #2e2c2caf;
+    --bggradient: linear-gradient(to bottom,
+            #dd2476, #ff512f);
+    --light-gray: rgba(255, 255, 255, 0.877)
+}
+
+header a {
+    font-family: var(--Robotto-font);
+    font-size: 0.9em;
+    color: whitesmoke;
+}
+
+header {
+    background: #dd2476;
+    background: var(--bggradient);
+}
