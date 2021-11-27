@@ -87,8 +87,8 @@ header .row .col-md-5 {
 
 header .row .col-md-7 {
     padding: 2vmin 1vmin;
-    padding-bottom: 20vmin;
-    padding-top: 10vmin;
+    padding-bottom: 36vmin;
+    padding-top: 20vmin;
     font-family: var(--Poppins);
     color: whitesmoke;
 }
@@ -118,4 +118,5 @@ header .container .col-md-7 button {
     border-radius: 30px;
     font-weight: semi-bold;
     box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+    color: #1e1e1e;
 }
