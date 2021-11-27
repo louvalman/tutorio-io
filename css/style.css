@@ -87,8 +87,8 @@ header .row .col-md-5 {
 
 header .row .col-md-7 {
     padding: 2vmin 1vmin;
-    padding-bottom: 20vmin;
-    padding-top: 10vmin;
+    padding-bottom: 36vmin;
+    padding-top: 20vmin;
     font-family: var(--Poppins);
     color: whitesmoke;
 }
@@ -104,7 +104,7 @@ header .container .col-md-7 h6 {
 
 header .container .col-md-7 h1 {
     font-size: 6vmin;
-    font-width: bold;
+    font-weight: bold;
     padding: 0.1em 0em;
 }
 
