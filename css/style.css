@@ -18,6 +18,8 @@ section {
     --light-black: #2e2c2caf;
     --bggradient: linear-gradient(to bottom right,
             #27b183, #454ADE);
+    --bggradient-2: linear-gradient(to bottom right,
+            #454ADE, #27b183);
     --light-gray: rgba(255, 255, 255, 0.877)
 }
 
@@ -123,3 +125,71 @@ header .container .col-md-7 button {
 }
 
 /* section 1 */
+
+.section-1 {
+    padding: 20vmin 0;
+}
+
+.section-1 .row .col-md-6 .pray img {
+    opacity: 0.8;
+    border-radius: 0.2em;
+    width: 80%;
+}
+
+.section-1 .row .col-md-6:last-child {
+    position: relative;
+}
+
+.section-1 .row .col-md-6 .panel {
+    position: absolute;
+    top: 7vmin;
+    left: -18vmin;
+    background-color: white;
+    border-radius: 3px;
+    text-align: left;
+    padding: 13vmin 5vmin 20vmin 10vmin;
+    box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+    font-family: var(--SourceSansPro);
+    z-index: 1;
+}
+
+.section-1 .row .col-md-6 .panel h1 {
+    font-weight: bold;
+    padding: 0.4em 0;
+    font-size: 2em;
+}
+
+.section-1 .row .col-md-6 .panel p {
+    font-size: 0.9em;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* section 2 */
+
+.cover {
+    width: 100%;
+    height: 55vmin;
+    background: url(../assets/banner-learning.jpg);
+    background-position: -24rem -41rem;
+    background-size: 135%;
+    position: relative;
+}
+
+.cover .content {
+    background: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    padding-top: 19vmin;
+}
+
+.cover .content h1 {
+    font-family: var(--Poppins);
+    font-size: 5vmin;
+    color: whitesmoke;
+}
+
+.cover .content p {
+    font-family: var(--SourceSansPro);
+    font-size: 2vmin;
+    color: #e5e5e5;
+}
