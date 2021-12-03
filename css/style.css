@@ -17,7 +17,7 @@ section {
     --Poppins: "Poppins", cursive;
     --light-black: #2e2c2caf;
     --bggradient: linear-gradient(to bottom right,
-            #27b183, #454ADE);
+            #0063E3, #D0DDFF);
     --bggradient-2: linear-gradient(to bottom right,
             #454ADE, #27b183);
     --light-gray: rgba(255, 255, 255, 0.877)
@@ -43,7 +43,7 @@ header {
 }
 
 .dropdown-content a {
-    background-color: #318FA1;
+    background-color: #0063E3;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -90,8 +90,8 @@ header .row .col-md-5 {
 
 header .row .col-md-7 {
     padding: 2vmin 1vmin;
-    padding-bottom: 36vmin;
-    padding-top: 20vmin;
+    padding-bottom: 33vmin;
+    padding-top: 23vmin;
     font-family: var(--Poppins);
     color: whitesmoke;
 }
@@ -128,12 +128,13 @@ header .container .col-md-7 button {
 
 .section-1 {
     padding: 20vmin 0;
+    background-color: #D0DDFF;
 }
 
 .section-1 .row .col-md-6 .pray img {
     opacity: 0.8;
     border-radius: 0.2em;
-    width: 80%;
+    width: 100%;
 }
 
 .section-1 .row .col-md-6:last-child {
@@ -142,12 +143,12 @@ header .container .col-md-7 button {
 
 .section-1 .row .col-md-6 .panel {
     position: absolute;
-    top: 7vmin;
+    top: -6vmin;
     left: -18vmin;
     background-color: white;
     border-radius: 3px;
     text-align: left;
-    padding: 13vmin 5vmin 20vmin 10vmin;
+    padding: 13vmin 5vmin 14vmin 6vmin;
     box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
     font-family: var(--SourceSansPro);
     z-index: 1;
@@ -169,9 +170,9 @@ header .container .col-md-7 button {
 .cover {
     width: 100%;
     height: 55vmin;
-    background: url(../assets/banner-learning.jpg);
-    background-position: -24rem -41rem;
-    background-size: 135%;
+    background: url(../assets/banner-1-memphis.jpeg);
+    background-position: 0rem -5rem;
+    background-size: 100%;
     position: relative;
 }
 
