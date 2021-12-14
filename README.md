@@ -1,7 +1,12 @@
 # tutorio-io
 
 header/hero
-sections 1-5
+section 1
+section 2
+section 3
+section 4
+section 5
+footer/socials
 
 
 ressources:
