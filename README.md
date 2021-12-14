@@ -2,7 +2,6 @@
 
 header/hero
 sections 1-5
-interactive content
 
 
 ressources:
