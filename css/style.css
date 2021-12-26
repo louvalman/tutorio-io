@@ -214,7 +214,7 @@ header .container .col-md-7 .btn-light:hover {
     padding-top: 3.5vmin;
     margin: 1rem;
     border-radius: .5em;
-    box-shadow: 1px 2px 50px 0px rgba(208, 221, 255, 1);
+    box-shadow: 1px 2px 50px 0px rgb(67, 70, 80);
 }
 
 .numbers {
@@ -281,19 +281,19 @@ header .container .col-md-7 .btn-light:hover {
 .section-3 {
     height: 70vmin;
     margin-top: 15vmin;
-    background: var(--bggradient);
+    background: #D0DDFF;
 }
 
 .section-3 .col-md-12>h1 {
     padding: 2em 0 0.5em 0;
-    color: whitesmoke;
+    color: 1e1e1e;
     font-size: 6vmin;
 }
 
 .section-3 .col-md-12>p {
     padding: 0 4em;
     padding-bottom: 2em;
-    color: var(--light-gray);
+    color: #1e1e1e;
     font-size: 3vmin;
 }
 
@@ -301,18 +301,24 @@ header .container .col-md-7 .btn-light:hover {
     background: white;
     display: inline-block;
     border-radius: 3em;
-    padding: 2vmin 4.5vmin;
+    padding: 1vmin 2.5vmin;
     margin: 1em;
+    width: 12em;
+    height: 5em;
 }
 
 .section-3 .desktop h3 {
-    font-size: 4vmin;
+    font-size: 2vmin;
 }
 
 .section-3 .desktop p {
-    font-size: 2vmin;
+    font-size: 1.5vmin;
 }
 
 .section-3 .desktop .text {
     padding-left: 2vmin;
+    overflow-x: none;
+    overflow-y: none;
 }
+
+.section-3 .desktop .fas {}
