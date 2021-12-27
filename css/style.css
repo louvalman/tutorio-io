@@ -233,7 +233,7 @@ header .container .col-md-7 .btn-light:hover {
 /* section 2.5 */
 
 .purchase>h1 {
-    padding-top: 31vmin;
+    padding-top: 14vmin;
     padding-bottom: 0.1em;
     font-family: var(--Poppins);
 }
@@ -321,4 +321,4 @@ header .container .col-md-7 .btn-light:hover {
     overflow-y: none;
 }
 
-.section-3 .desktop .fas {}
+/* section 4 */
