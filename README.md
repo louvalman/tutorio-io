@@ -15,3 +15,9 @@ ressources:
 - fontawesome
 - colorblend
 - corporate memphis illustrations
+
+to do:
+- find new svg device icons
+- finish section 5
+- use new bgc
+- finish footer
