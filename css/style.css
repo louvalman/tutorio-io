@@ -223,7 +223,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .numbers .rect h3 {
     font-size: 5rem;
-    color: #0063E3;
+    color: #27b183;
 }
 
 .numbers .rect p {
@@ -368,7 +368,9 @@ footer p>span {
 
 footer input {
     border: none !important;
+    border-radius: 0.2em;
     width: 40%;
+    margin-top: 2vmin;
 }
 
 footer input::placeholder {
@@ -376,11 +378,13 @@ footer input::placeholder {
 }
 
 footer .input-group .input-group-text {
-    background: var(--bggradient);
+    background: #D0DDFF;
+    margin-left: -1vmin;
+    margin-top: 2vmin;
     border: none;
 }
 
 footer .column i {
-    color: var(--bggradient);
+    color: #D0DDFF;
     padding-right: 0.5em;
 }
