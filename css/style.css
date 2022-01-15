@@ -345,9 +345,7 @@ header .container .col-md-7 .btn-light:hover {
     font-size: 1.5em;
 }
 
-.section-4 .carousel-item {
-    padding-left: 3rem;
-}
+.section-4 .carousel-item {}
 
 .border-radius {
     border-radius: 340px;
