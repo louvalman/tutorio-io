@@ -196,13 +196,13 @@ header .container .col-md-7 .btn-light:hover {
 .cover .content h1 {
     font-family: var(--Poppins);
     font-size: 5vmin;
-    color: whitesmoke;
+    color: #D0DDFF;
 }
 
 .cover .content p {
     font-family: var(--SourceSansPro);
     font-size: 2vmin;
-    color: #e5e5e5;
+    color: #D0DDFF;
 }
 
 .numbers .rect {
@@ -223,7 +223,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .numbers .rect h3 {
     font-size: 5rem;
-    color: #27b183;
+    color: #1e1e1e;
 }
 
 .numbers .rect p {
@@ -325,7 +325,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .section-4 .container h1 {
     font-size: 6vmin;
-    padding-top: 14vmin;
+    padding-top: 12vmin;
 }
 
 .section-4 .team {
@@ -334,7 +334,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .section-4 .card {
     width: 22rem;
-    margin-top: 10vmin;
+    margin-top: 1vmin;
 }
 
 .section-4 .card .card-text {
@@ -364,6 +364,10 @@ footer {
 
 footer p>span {
     color: #D0DDFF;
+}
+
+footer .text-muted {
+    max-width: 65ch;
 }
 
 footer input {
