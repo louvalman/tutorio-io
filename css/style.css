@@ -6,8 +6,6 @@
 }
 
 
-header,
-body,
 section {
     overflow-x: hidden;
 }
@@ -354,4 +352,35 @@ header .container .col-md-7 .btn-light:hover {
 .border-radius {
     border-radius: 340px;
     width: 60%;
+}
+
+/* Footer */
+
+footer {
+    background: rgba(0, 0, 0, 0.815);
+    overflow-x: hidden;
+    padding: 14vmin 18vmin;
+}
+
+footer p>span {
+    color: #D0DDFF;
+}
+
+footer input {
+    border: none !important;
+    width: 40%;
+}
+
+footer input::placeholder {
+    color: white !important;
+}
+
+footer .input-group .input-group-text {
+    background: var(--bggradient);
+    border: none;
+}
+
+footer .column i {
+    color: var(--bggradient);
+    padding-right: 0.5em;
 }
