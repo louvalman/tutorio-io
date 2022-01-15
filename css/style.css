@@ -350,3 +350,8 @@ header .container .col-md-7 .btn-light:hover {
 .section-4 .carousel-item {
     padding-left: 3rem;
 }
+
+.border-radius {
+    border-radius: 340px;
+    width: 60%;
+}
