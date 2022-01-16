@@ -1,0 +1,107 @@
+@media only screen and (max-width: 768px) {
+    header .navbar-brand {
+        padding-left: 1rem;
+    }
+
+    header .row .col-md-5 img {
+        width: 90%;
+        margin-top: 23vmin;
+    }
+
+    .section-1 .row .col-md-6 .pray img {
+        opacity: 0.9;
+        border-radius: 0.2em;
+        width: 110%;
+        margin-top: 23vmin;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+        left: 8vmin;
+    }
+
+    .section-2 .cover {
+        background-position: 0vmin -0vmin;
+        height: 68vmin;
+    }
+
+    .section-2 .cover .content {
+        padding-top: 19vmin;
+    }
+
+    .numbers .rect {
+        width: 10rem;
+        height: 8rem;
+    }
+
+    .numbers .rect h3 {
+        font-size: 3rem;
+    }
+
+    .section-3 {
+        height: inherit;
+    }
+
+    .section-3 .row h1 {
+        padding: 6vmin 4vmin;
+    }
+
+    .section-3 .row .col-md-6 {
+        text-align: center !important;
+    }
+
+    .section-3 .platform {
+        margin-left: -15%;
+        margin-right: -15%;
+        margin-bottom: 5vmin;
+    }
+
+    .section-3 .desktop {
+        height: 4.5em;
+        width: 11em;
+    }
+
+    .section-3 .desktop i {
+        font-size: 5.5vmin;
+    }
+
+    .section-4 .team {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        margin-left: -12vmin;
+    }
+
+    .section-4 .carousel-inner {
+        width: 30rem;
+        align-content: center;
+        margin-left: -8.15vmin;
+    }
+
+    footer {
+
+        padding: 8vmin 4vmin;
+    }
+
+    footer input {
+        width: 65%;
+    }
+
+    footer input::placeholder {
+        color: #bbb8b8 !important;
+    }
+
+    footer .input-group .input-group-text {
+        background: #D0DDFF;
+        margin-left: -1vmin;
+        margin-top: 2vmin;
+        border: none;
+    }
+
+    footer .column i {
+        color: #D0DDFF;
+        padding-right: 0.2em;
+    }
+}
