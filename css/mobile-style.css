@@ -1,3 +1,35 @@
+@media only screen and (max-width:1024px) {
+    header .row .col-md-5 img {
+        width: 100%;
+        margin-top: 10vmin;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+        left: 8vmin;
+    }
+
+    .section-4 .card {
+        width: 18rem;
+        margin-top: 1vmin;
+        box-shadow: none !important;
+    }
+
+    .section-4 .carousel-inner {
+        width: 20rem;
+    }
+
+}
+
+.section-1 .row .col-md-6 .pray img {
+    opacity: 0.9;
+    border-radius: 0.2em;
+    width: 110%;
+    margin-top: 10vmin;
+}
+
 @media only screen and (max-width:768px) {
     header .navbar-brand {
         padding-left: 1rem;

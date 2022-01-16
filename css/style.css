@@ -373,7 +373,7 @@ footer .text-muted {
 footer input {
     border: none !important;
     border-radius: 0.2em;
-    width: 40%;
+    width: 65%;
 }
 
 footer input::placeholder {
