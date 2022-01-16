@@ -4,6 +4,13 @@
         margin-top: 10vmin;
     }
 
+    .section-1 .row .col-md-6 .pray img {
+        opacity: 0.9;
+        border-radius: 0.2em;
+        width: 110%;
+        margin-top: 10vmin;
+    }
+
     .section-1 .row .col-md-6 .panel {
         position: initial;
         width: initial;
@@ -21,13 +28,6 @@
         width: 20rem;
     }
 
-}
-
-.section-1 .row .col-md-6 .pray img {
-    opacity: 0.9;
-    border-radius: 0.2em;
-    width: 110%;
-    margin-top: 10vmin;
 }
 
 @media only screen and (max-width:768px) {
