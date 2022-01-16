@@ -97,6 +97,7 @@
         background: #D0DDFF;
         margin-left: -1vmin;
         border: none;
+        height: auto;
     }
 
     footer .column i {
