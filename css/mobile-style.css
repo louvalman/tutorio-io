@@ -1,4 +1,4 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width:768px) {
     header .navbar-brand {
         padding-left: 1rem;
     }
@@ -164,20 +164,21 @@
     .section-3 .desktop .text {
         padding-left: 2vmin;
     }
+
+    .section-4 .team {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        margin-left: -2vmin;
+    }
+
+    .section-4 .carousel-inner {
+        width: 30rem;
+        align-content: center;
+        margin-left: -11.15vmin;
+    }
 }
 
-.section-4 .team {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    margin-left: -2vmin;
-}
-
-.section-4 .carousel-inner {
-    width: 30rem;
-    align-content: center;
-    margin-left: -11.15vmin;
-}
 
 @media only screen and (max-width:375px) {
     .section-3 .desktop h3 {
