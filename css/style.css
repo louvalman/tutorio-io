@@ -339,6 +339,7 @@ header .container .col-md-7 .btn-light:hover {
 .section-4 .card {
     width: 22rem;
     margin-top: 6vmin;
+    margin-bottom: 8vmin;
 }
 
 .section-4 .card .card-text {
