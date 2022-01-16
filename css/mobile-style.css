@@ -21,7 +21,7 @@
     .section-4 .card {
         width: 18rem;
         margin-top: 1vmin;
-        box-shadow: none !important;
+        box-shadow: none;
     }
 
     .section-4 .carousel-inner {
@@ -106,10 +106,14 @@
         margin-left: -12vmin;
     }
 
+    .section-4 .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
     .section-4 .carousel-inner {
         width: 30rem;
         align-content: center;
-        margin-left: -14.25vmin;
+        margin-left: -14vmin;
     }
 
     footer {
