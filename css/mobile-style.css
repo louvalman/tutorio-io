@@ -77,7 +77,7 @@
     .section-4 .carousel-inner {
         width: 30rem;
         align-content: center;
-        margin-left: -8.15vmin;
+        margin-left: -9.15vmin;
     }
 
     footer {
@@ -103,5 +103,78 @@
     footer .column i {
         color: #D0DDFF;
         padding-right: 0.2em;
+    }
+
+    footer .col-md-2 {
+        margin-left: -2vmin;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    header .row .col-md-5 img {
+        width: 100%;
+        margin-top: -35vmin;
+        margin-bottom: 20vmin;
+        margin-left: -3vmin;
+    }
+
+    .section-1 .row .col-md-6 .pray img {
+        opacity: 0.9;
+        border-radius: 0.2em;
+        width: 110%;
+        margin-top: -10vmin;
+        margin-left: -5vmin;
+    }
+
+    footer .row .col-md-5 {
+        margin-top: 4vmin;
+    }
+
+    footer .row .col-md-2 {
+        margin-top: 8vmin;
+    }
+
+    .section-3 .desktop {
+        height: 3em;
+        width: 8em;
+    }
+
+    .section-3 .desktop i {
+        font-size: 6vmin;
+    }
+
+    .section-3 .desktop h3 {
+        font-size: 3vmin;
+    }
+
+    .section-3 .desktop p {
+        font-size: 1.8vmin;
+    }
+
+    .section-3 .desktop .text {
+        padding-left: 2vmin;
+    }
+}
+
+.section-4 .team {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-left: -2vmin;
+}
+
+.section-4 .carousel-inner {
+    width: 30rem;
+    align-content: center;
+    margin-left: -11.15vmin;
+}
+
+@media only screen and (max-width:320px) {
+    .section-4 .card {
+        width: 18rem;
+    }
+
+    .section-4 .carousel-inner {
+        margin-left: -14vmin;
     }
 }
