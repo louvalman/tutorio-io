@@ -132,6 +132,16 @@
 
     footer .row .col-md-2 {
         margin-top: 8vmin;
+        margin-left: 0vmin;
+    }
+
+    .cover .content p {
+        font-size: 3vmin;
+    }
+
+    .purchase .cards .card {
+        width: 20rem;
+        margin: 3vmin;
     }
 
     .section-3 .desktop {
@@ -169,12 +179,31 @@
     margin-left: -11.15vmin;
 }
 
+@media only screen and (max-width:375px) {
+    .section-3 .desktop h3 {
+        font-size: 4vmin;
+    }
+
+    .section-3 .desktop p {
+        font-size: 2vmin;
+    }
+
+    .section-4 .card {
+        width: 18rem;
+    }
+
+    .section-4 .carousel-inner {
+        margin-left: -18.5vmin;
+    }
+}
+
+
 @media only screen and (max-width:320px) {
     .section-4 .card {
         width: 18rem;
     }
 
     .section-4 .carousel-inner {
-        margin-left: -14vmin;
+        margin-left: -30vmin;
     }
 }
