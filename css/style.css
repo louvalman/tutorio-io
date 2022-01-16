@@ -374,7 +374,6 @@ footer input {
     border: none !important;
     border-radius: 0.2em;
     width: 40%;
-    margin-top: 2vmin;
 }
 
 footer input::placeholder {
@@ -384,7 +383,6 @@ footer input::placeholder {
 footer .input-group .input-group-text {
     background: #D0DDFF;
     margin-left: -1vmin;
-    margin-top: 2vmin;
     border: none;
 }
 
