@@ -223,6 +223,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .numbers {
     margin-top: -15vmin;
+    padding-bottom: 10vmin;
 }
 
 .numbers .rect h3 {
@@ -237,7 +238,7 @@ header .container .col-md-7 .btn-light:hover {
 /* section 2.5 */
 
 .purchase>h1 {
-    padding-top: 14vmin;
+    padding-top: 4vmin;
     padding-bottom: 0.1em;
     font-family: var(--Poppins);
 }
