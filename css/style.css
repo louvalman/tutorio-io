@@ -356,7 +356,7 @@ header .container .col-md-7 .btn-light:hover {
     width: 26rem;
     margin-top: 6vmin;
     margin-bottom: 8vmin;
-    box-shadow: 0.05px 0.05px 10px 0.25px rgb(196, 196, 196);
+    box-shadow: 0.05px 0.05px 7px 0.25px rgb(230, 223, 223);
 }
 
 .section-4 .card .card-text {
