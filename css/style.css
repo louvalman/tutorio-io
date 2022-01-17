@@ -28,6 +28,10 @@ header a {
     color: whitesmoke;
 }
 
+header a:hover {
+    color: #D0DDFF !important;
+}
+
 header {
     background: var(--bggradient);
 }
@@ -50,6 +54,7 @@ header {
 
 .dropdown-content a:hover {
     background: #27B183;
+    color: #D0DDFF !important;
 }
 
 .dropdown:hover .dropdown-content {
