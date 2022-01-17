@@ -81,10 +81,6 @@
         height: inherit;
     }
 
-    .section-3 .row h1 {
-        padding: 6vmin 4vmin;
-    }
-
     .section-3 .row .col-md-6 {
         text-align: center !important;
     }
