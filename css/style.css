@@ -252,6 +252,7 @@ header .container .col-md-7 .btn-light:hover {
 .purchase>p {
     color: var(--light-black);
     font-size: 3vmin;
+    padding-top: 0.5em;
     padding-bottom: 6vmin;
     margin: 0vmin 6vmin;
 }
@@ -300,13 +301,15 @@ header .container .col-md-7 .btn-light:hover {
     padding: 2em 0 0.5em 0;
     color: #1e1e1e;
     font-size: 6vmin;
+    margin: 0vmin 1.5vmin;
 }
 
 .section-3 .col-md-12>p {
-    padding: 0 4em;
+    padding: 0;
     padding-bottom: 2em;
     color: #1e1e1e;
     font-size: 3vmin;
+    margin: 0vmin 6vmin;
 }
 
 .section-3 .desktop {
