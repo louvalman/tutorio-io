@@ -1,4 +1,36 @@
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width:1024px) {
+    header .row .col-md-5 img {
+        width: 100%;
+        margin-top: 10vmin;
+    }
+
+    .section-1 .row .col-md-6 .pray img {
+        opacity: 0.9;
+        border-radius: 0.2em;
+        width: 110%;
+        margin-top: 10vmin;
+    }
+
+    .section-1 .row .col-md-6 .panel {
+        position: initial;
+        width: initial;
+        height: initial;
+        left: 8vmin;
+    }
+
+    .section-4 .card {
+        width: 18rem;
+        margin-top: 1vmin;
+        box-shadow: none;
+    }
+
+    .section-4 .carousel-inner {
+        width: 20rem;
+    }
+
+}
+
+@media only screen and (max-width:768px) {
     header .navbar-brand {
         padding-left: 1rem;
     }
@@ -74,10 +106,14 @@
         margin-left: -12vmin;
     }
 
+    .section-4 .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
     .section-4 .carousel-inner {
         width: 30rem;
         align-content: center;
-        margin-left: -9.15vmin;
+        margin-left: -14vmin;
     }
 
     footer {
@@ -96,8 +132,8 @@
     footer .input-group .input-group-text {
         background: #D0DDFF;
         margin-left: -1vmin;
-        margin-top: 2vmin;
         border: none;
+        height: 32px;
     }
 
     footer .column i {
@@ -111,6 +147,10 @@
 }
 
 @media only screen and (max-width:425px) {
+    header .container .col-md-7 button {
+        margin-top: 4vmin;
+    }
+
     header .row .col-md-5 img {
         width: 100%;
         margin-top: -35vmin;
@@ -164,20 +204,21 @@
     .section-3 .desktop .text {
         padding-left: 2vmin;
     }
+
+    .section-4 .team {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        margin-left: -2vmin;
+    }
+
+    .section-4 .carousel-inner {
+        width: 30rem;
+        align-content: center;
+        margin-left: -11.15vmin;
+    }
 }
 
-.section-4 .team {
-    display: flex;
-    flex-direction: column;
-    align-content: center;
-    margin-left: -2vmin;
-}
-
-.section-4 .carousel-inner {
-    width: 30rem;
-    align-content: center;
-    margin-left: -11.15vmin;
-}
 
 @media only screen and (max-width:375px) {
     .section-3 .desktop h3 {
