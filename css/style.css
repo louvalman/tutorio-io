@@ -246,12 +246,14 @@ header .container .col-md-7 .btn-light:hover {
     padding-top: 4vmin;
     padding-bottom: 0.1em;
     font-family: var(--Poppins);
+    margin: 0vmin 1.5vmin;
 }
 
 .purchase>p {
     color: var(--light-black);
     font-size: 3vmin;
     padding-bottom: 6vmin;
+    margin: 0vmin 6vmin;
 }
 
 .purchase .cards .card {
