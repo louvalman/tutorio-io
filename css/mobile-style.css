@@ -18,6 +18,11 @@
         left: 8vmin;
     }
 
+    .section-3 .desktop {
+        height: 3.7em;
+        width: 11em;
+    }
+
     .section-4 .card {
         width: 18rem;
         margin-top: 1vmin;
@@ -246,5 +251,10 @@
 
     .section-4 .carousel-inner {
         margin-left: -30vmin;
+    }
+
+    .section-3 .desktop {
+        height: 2.7em;
+        width: 7em;
     }
 }
