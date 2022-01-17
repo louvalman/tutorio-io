@@ -244,7 +244,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .purchase>h1 {
     padding-top: 4vmin;
-    padding-bottom: 0.35em;
+    padding-bottom: 0.5em;
     font-family: var(--Poppins);
     margin: 0vmin 6vmin;
 }
@@ -297,7 +297,7 @@ header .container .col-md-7 .btn-light:hover {
 }
 
 .section-3 .col-md-12>h1 {
-    padding: 2em 0 0.35em 0;
+    padding: 2em 0 0.5em 0;
     color: #1e1e1e;
     font-size: 6vmin;
     margin: 0vmin 6vmin;
