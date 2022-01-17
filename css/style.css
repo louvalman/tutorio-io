@@ -244,15 +244,14 @@ header .container .col-md-7 .btn-light:hover {
 
 .purchase>h1 {
     padding-top: 4vmin;
-    padding-bottom: 0.1em;
+    padding-bottom: 0.35em;
     font-family: var(--Poppins);
-    margin: 0vmin 1.5vmin;
+    margin: 0vmin 6vmin;
 }
 
 .purchase>p {
     color: var(--light-black);
     font-size: 3vmin;
-    padding-top: 0.5em;
     padding-bottom: 6vmin;
     margin: 0vmin 6vmin;
 }
@@ -298,14 +297,13 @@ header .container .col-md-7 .btn-light:hover {
 }
 
 .section-3 .col-md-12>h1 {
-    padding: 2em 0 0.5em 0;
+    padding: 2em 0 0.35em 0;
     color: #1e1e1e;
     font-size: 6vmin;
-    margin: 0vmin 1.5vmin;
+    margin: 0vmin 6vmin;
 }
 
 .section-3 .col-md-12>p {
-    padding: 0;
     padding-bottom: 2em;
     color: #1e1e1e;
     font-size: 3vmin;
