@@ -101,7 +101,7 @@ header .row .col-md-7 {
 
 header .row .col-md-5 img {
     width: 85%;
-    margin-top: 9vmin;
+    margin-top: 8vmin;
 }
 
 header .container .col-md-7 h6 {
@@ -338,7 +338,7 @@ header .container .col-md-7 .btn-light:hover {
 }
 
 .section-4 .card {
-    width: 22rem;
+    width: 26rem;
     margin-top: 6vmin;
     margin-bottom: 8vmin;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
