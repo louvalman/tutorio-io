@@ -161,7 +161,6 @@ header .container .col-md-7 .btn-light:hover {
 
 .section-1 .row .col-md-6 .panel {
     position: absolute;
-    top: -6vmin;
     left: -6vmin;
     background-color: white;
     border-radius: 3px;
