@@ -18,6 +18,19 @@
         left: 8vmin;
     }
 
+    .cover {
+        background-position: 0rem -5rem;
+    }
+
+    .section-2 .cover .content {
+        padding-top: 20vmin;
+    }
+
+    .numbers {
+        margin-top: -15vmin;
+        padding-bottom: 5vmin;
+    }
+
     .section-3 .desktop {
         height: 3.7em;
         width: 11em;
@@ -69,12 +82,8 @@
     }
 
     .section-2 .cover {
-        background-position: 0vmin -0vmin;
+        background-position: 0vmin -3.5vmin;
         height: 68vmin;
-    }
-
-    .section-2 .cover .content {
-        padding-top: 19vmin;
     }
 
     .numbers .rect {
@@ -146,10 +155,6 @@
         color: #D0DDFF;
         padding-right: 0.2em;
     }
-
-
-
-    footer .col-md-5 .follow-us {}
 }
 
 @media only screen and (max-width:425px) {
@@ -230,6 +235,14 @@
 
     footer input {
         width: 75%;
+    }
+
+    footer .newsletter {
+        padding-top: 4vmin;
+    }
+
+    footer .follow-us {
+        padding-top: 6vmin;
     }
 }
 
