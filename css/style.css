@@ -327,9 +327,18 @@ header .container .col-md-7 .btn-light:hover {
 }
 
 .section-3 .desktop .d-flex {
-    align-items: center !important;
     height: 100%;
 }
+
+
+.section-3 .desktop-1 {
+    margin-right: 0vmin;
+}
+
+.section-3 .mobile-1 {
+    margin-left: 0vmin;
+}
+
 
 .section-3 .desktop i {
     margin-left: -1vmin;

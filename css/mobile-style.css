@@ -105,10 +105,6 @@
         width: 11em;
     }
 
-    .section-3 .desktop i {
-        font-size: 5.5vmin;
-    }
-
     .section-4 .team {
         display: flex;
         flex-direction: column;
@@ -219,13 +215,13 @@
         display: flex;
         flex-direction: column;
         align-content: center;
-        margin-left: -2vmin;
+        margin-left: 4vmin;
     }
 
     .section-4 .carousel-inner {
         width: 30rem;
         align-content: center;
-        margin-left: -11.15vmin;
+        margin-left: -14vmin;
     }
 }
 
@@ -244,18 +240,22 @@
     }
 
     .section-4 .carousel-inner {
-        margin-left: -18.5vmin;
+        margin-left: -21.5vmin;
     }
 }
 
 
 @media only screen and (max-width:320px) {
+    .section-4 .team {
+        margin-left: -3vmin;
+    }
+
     .section-4 .card {
         width: 18rem;
     }
 
     .section-4 .carousel-inner {
-        margin-left: -30vmin;
+        margin-left: -25vmin;
     }
 
     .section-3 .desktop {
