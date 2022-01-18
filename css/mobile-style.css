@@ -259,6 +259,11 @@
 
 
 @media only screen and (max-width:320px) {
+    .purchase .cards .card {
+        width: 18rem;
+        margin: 3vmin;
+    }
+
     .section-4 .team {
         margin-left: -3vmin;
     }

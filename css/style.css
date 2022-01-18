@@ -214,6 +214,10 @@ header .container .col-md-7 .btn-light:hover {
     color: whitesmoke;
 }
 
+.background-float {
+    background-color: #4c4c4c;
+}
+
 .numbers .rect {
     position: relative;
     z-index: 1;
