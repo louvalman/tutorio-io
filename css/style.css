@@ -205,13 +205,13 @@ header .container .col-md-7 .btn-light:hover {
 .cover .content h1 {
     font-family: var(--Poppins);
     font-size: 5vmin;
-    color: #D0DDFF;
+    color: whitesmoke;
 }
 
 .cover .content p {
     font-family: var(--SourceSansPro);
     font-size: 2vmin;
-    color: #D0DDFF;
+    color: whitesmoke;
 }
 
 .numbers .rect {
