@@ -162,7 +162,7 @@ header .container .col-md-7 .btn-light:hover {
 .section-1 .row .col-md-6 .panel {
     position: absolute;
     top: -10vmin;
-    left: -6vmin;
+    left: -3vmin;
     background-color: white;
     border-radius: 3px;
     text-align: left;
@@ -385,7 +385,7 @@ header .container .col-md-7 .btn-light:hover {
 footer {
     background: rgba(0, 0, 0, 0.815);
     overflow-x: hidden;
-    padding: 14vmin 18vmin;
+    padding: 14vmin 14vmin;
 }
 
 footer p>span {
@@ -393,7 +393,7 @@ footer p>span {
 }
 
 footer .text-muted {
-    max-width: 60ch;
+    max-width: 50ch;
 }
 
 footer input {
