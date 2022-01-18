@@ -235,6 +235,11 @@
 
 
 @media only screen and (max-width:375px) {
+    .purchase .cards .card {
+        width: 18rem;
+        margin: 3vmin;
+    }
+
     .section-3 .desktop h3 {
         font-size: 4vmin;
     }
