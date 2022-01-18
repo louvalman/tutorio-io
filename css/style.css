@@ -304,7 +304,7 @@ header .container .col-md-7 .btn-light:hover {
 }
 
 .section-3 .col-md-12>p {
-    padding-bottom: 2em;
+    padding-bottom: 4em;
     color: var(--light-black);
     font-size: 3vmin;
     margin: 0vmin 6vmin;
