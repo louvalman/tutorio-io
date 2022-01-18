@@ -1,7 +1,6 @@
 @media only screen and (max-width:1024px) {
     header .row .col-md-5 img {
-        width: 100%;
-        margin-top: 10vmin;
+        margin-top: 0vmin;
     }
 
     .section-1 .row .col-md-6 .pray img {
@@ -63,8 +62,7 @@
     }
 
     header .row .col-md-5 img {
-        width: 90%;
-        margin-top: 23vmin;
+        margin-top: 0vmin;
     }
 
     .section-1 .row .col-md-6 .pray img {
@@ -158,15 +156,20 @@
 }
 
 @media only screen and (max-width:425px) {
+
     header .container .col-md-7 button {
         margin-top: 4vmin;
     }
 
+    header .col-md-5 {
+        display: block !important;
+    }
+
     header .row .col-md-5 img {
-        width: 100%;
-        margin-top: -35vmin;
+        width: 90% !important;
+        margin-top: -10vmin;
         margin-bottom: 20vmin;
-        margin-left: -3vmin;
+        margin-left: 0vmin;
     }
 
     .section-1 .row .col-md-6 .pray img {

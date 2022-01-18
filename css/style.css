@@ -93,7 +93,9 @@ header .fa-align-right {
 }
 
 header .row .col-md-5 {
-    padding: 4.2vmin 1vmin;
+    padding: 0vmin 1vmin;
+    display: flex;
+    align-items: center;
 }
 
 header .row .col-md-7 {
@@ -105,8 +107,7 @@ header .row .col-md-7 {
 }
 
 header .row .col-md-5 img {
-    width: 85%;
-    margin-top: 3vmin;
+    margin-top: 0vmin;
 }
 
 header .container .col-md-7 h6 {
@@ -162,7 +163,7 @@ header .container .col-md-7 .btn-light:hover {
 .section-1 .row .col-md-6 .panel {
     position: absolute;
     top: -10vmin;
-    left: -4.2vmin;
+    left: 1vmin;
     background-color: white;
     border-radius: 3px;
     text-align: left;
