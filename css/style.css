@@ -399,7 +399,7 @@ header .container .col-md-7 .btn-light:hover {
 footer {
     background: rgba(0, 0, 0, 0.815);
     overflow-x: hidden;
-    padding: 14vmin 14vmin;
+    padding: 14vmin 6vmin;
 }
 
 footer p>span {
@@ -407,7 +407,7 @@ footer p>span {
 }
 
 footer .text-muted {
-    max-width: 45ch;
+    max-width: 35ch;
 }
 
 footer input {
