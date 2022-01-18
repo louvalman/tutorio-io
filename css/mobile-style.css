@@ -172,15 +172,6 @@
         margin-left: -5vmin;
     }
 
-    footer .row .col-md-4 {
-        margin-top: 4vmin;
-    }
-
-    footer .row .col-md-3 {
-        margin-top: 8vmin;
-        margin-left: 0vmin;
-    }
-
     .cover .content p {
         font-size: 3vmin;
     }
@@ -222,6 +213,23 @@
         width: 30rem;
         align-content: center;
         margin-left: -14vmin;
+    }
+
+    footer .row .col-md-4 {
+        margin-top: 4vmin;
+    }
+
+    footer .row .col-md-3 {
+        margin-top: 8vmin;
+        margin-left: 0vmin;
+    }
+
+    footer .text-muted {
+        max-width: 50ch;
+    }
+
+    footer input {
+        width: 75%;
     }
 }
 
