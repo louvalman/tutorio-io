@@ -399,7 +399,7 @@ header .container .col-md-7 .btn-light:hover {
 footer {
     background: rgba(0, 0, 0, 0.815);
     overflow-x: hidden;
-    padding: 14vmin 6vmin;
+    padding: 14vmin 10vmin;
 }
 
 footer p>span {
