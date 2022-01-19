@@ -192,8 +192,11 @@ header .container .col-md-7 .btn-light:hover {
     height: 80vmin;
     background: url(../assets/banner-1-memphis.jpeg);
     background-position: 0rem -10rem;
-    background-size: 100%;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
     position: relative;
+
 }
 
 .cover .content {
