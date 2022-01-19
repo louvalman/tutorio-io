@@ -191,7 +191,7 @@ header .container .col-md-7 .btn-light:hover {
     width: 100%;
     height: 80vmin;
     background: url(../assets/banner-1-memphis.jpeg);
-    background-position: 0rem -13rem;
+    background-position: 0rem -10rem;
     background-size: 100%;
     position: relative;
 }
