@@ -162,7 +162,9 @@
     }
 
     header .col-md-5 {
-        display: block !important;
+        display: flex;
+        justify-content: center;
+        margin-left: -2vmin !important;
     }
 
     header .row .col-md-5 img {
