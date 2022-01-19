@@ -18,7 +18,7 @@
     }
 
     .cover {
-        background-position: 0rem -5rem;
+        background-position: 0rem -9.5rem;
     }
 
     .section-2 .cover .content {
@@ -80,8 +80,8 @@
     }
 
     .section-2 .cover {
-        background-position: 0vmin -3.5vmin;
-        height: 68vmin;
+        background-position: 0vmin -9.5vmin;
+        height: 58vmin;
     }
 
     .numbers .rect {
