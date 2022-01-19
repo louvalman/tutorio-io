@@ -62,7 +62,7 @@ header {
 }
 
 header .nav-item:last-child {
-    padding-right: 8em;
+    padding-right: 3.5em;
 }
 
 header .nav-item {
@@ -76,7 +76,7 @@ header .nav-item a {
 
 header .navbar-brand {
     display: flex;
-    padding-left: 8rem;
+    padding-left: 2.5em;
     align-items: center;
 }
 
