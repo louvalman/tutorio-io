@@ -434,3 +434,7 @@ footer .column i {
     color: #D0DDFF;
     padding-right: 0.5em;
 }
+
+footer .follow-us-text {
+    max-width: 75ch !important;
+}
