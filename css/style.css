@@ -410,10 +410,6 @@ footer p>span {
     color: #D0DDFF;
 }
 
-footer .text-muted {
-    max-width: 35ch;
-}
-
 footer input {
     border: none !important;
     border-radius: 0.2em;
@@ -435,10 +431,14 @@ footer .column i {
     padding-right: 0.5em;
 }
 
+footer .text-muted {
+    max-width: 35ch;
+}
+
 footer .follow-us-text {
-    max-width: 75ch !important;
+    max-width: 35ch !important;
 }
 
 footer .follow-us-text-2 {
-    max-width: 45ch !important;
+    max-width: 35ch !important;
 }
