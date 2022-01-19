@@ -438,3 +438,7 @@ footer .column i {
 footer .follow-us-text {
     max-width: 75ch !important;
 }
+
+footer .follow-us-text-2 {
+    max-width: 45ch !important;
+}
