@@ -315,6 +315,10 @@ header .container .col-md-7 .btn-light:hover {
     margin: 0vmin 6vmin;
 }
 
+.section-3 .platform {
+    display: inline-block !important;
+}
+
 .section-3 .desktop {
     background: white;
     display: inline-block;
