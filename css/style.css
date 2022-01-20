@@ -299,7 +299,6 @@ header .container .col-md-7 .btn-light:hover {
 /* section 3 */
 
 .section-3 {
-    height: 70vmin;
     margin-top: 15vmin;
     background: #D0DDFF;
 }
@@ -320,6 +319,7 @@ header .container .col-md-7 .btn-light:hover {
 
 .section-3 .platform {
     display: inline-block !important;
+    padding-bottom: 6vmin;
 }
 
 .section-3 .desktop {
@@ -409,6 +409,10 @@ footer {
     padding: 14vmin 14vmin;
 }
 
+footer .col-md-1 {
+    padding: 0vmin 0vmin !important;
+}
+
 footer p>span {
     color: #D0DDFF;
 }
@@ -435,13 +439,36 @@ footer .column i {
 }
 
 footer .text-muted {
-    max-width: 35ch;
+    max-width: ch;
 }
 
 footer .follow-us-text {
-    max-width: 35ch !important;
+    max-width: ch !important;
 }
 
 footer .follow-us-text-2 {
-    max-width: 35ch !important;
+    max-width: ch !important;
+}
+
+footer .about-us {
+    margin: 0vmin 0vmin 0vmin 0vmin;
+}
+
+footer .newsletter {
+    margin: 0vmin 0vmin 0vmin 0vmin;
+}
+
+footer .follow-us {
+    margin: 0vmin 0vmin 0vmin 0vmin;
+}
+
+/* Sticky */
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.815);
+    z-index: 9999;
+    transition: all 1.5s ease;
 }
