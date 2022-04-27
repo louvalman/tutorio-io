@@ -46,7 +46,8 @@ header {
 }
 
 .dropdown-content a {
-    background-color: #0063E3;
+    background-color: #D0DDFF;
+    color: #1e1e1e !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -54,7 +55,7 @@ header {
 
 .dropdown-content a:hover {
     background: #27B183;
-    color: #D0DDFF !important;
+    color: #ffffff !important;
 }
 
 .dropdown:hover .dropdown-content {
